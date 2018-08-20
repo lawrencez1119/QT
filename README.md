@@ -1,2 +1,2 @@
-# QT
-Some QT projects
+# SLIC GUI
+SLIC GUI by QT
